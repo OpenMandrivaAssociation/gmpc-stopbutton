@@ -1,7 +1,7 @@
 Summary:	A stop button plugin for gmpc
 Name:		gmpc-stopbutton
 Version:	0.15.5.0
-Release:	%mkrel 5
+Release:	6
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl//gmpc-plugins-stopbutton
